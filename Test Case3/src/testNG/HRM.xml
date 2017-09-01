@@ -1,0 +1,9 @@
+<suite name="Suite1" verbose="1" >
+  
+  <test name="OrangeHRM">
+    <classes>
+      <class name="testNG.TC_1"/>
+      <class name="testNG.TC_2"/>
+    </classes>
+  </test>
+</suite>

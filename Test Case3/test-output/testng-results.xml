@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Home Page Displayed]]>
+    </line>
+    <line>
+      <![CDATA[UN and PWD is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Orange HRM page is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Welcome+username is displayed]]>
+    </line>
+    <line>
+      <![CDATA[SignOff Successfull and HomePage Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Home Page Displayed]]>
+    </line>
+    <line>
+      <![CDATA[UN and PWD is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Welcome+username is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Change Password and Logout are Displayed]]>
+    </line>
+    <line>
+      <![CDATA[PIM:Add Employee is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Personal Details is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Employee Information is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[SignOff Successfull and HomePage Displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="26811" started-at="2017-08-29T11:41:15Z" finished-at="2017-08-29T11:41:41Z">
+    <groups>
+    </groups>
+    <test name="OrangeHRM" duration-ms="26811" started-at="2017-08-29T11:41:15Z" finished-at="2017-08-29T11:41:41Z">
+      <class name="testNG.TC_1">
+        <test-method status="PASS" signature="Config()[pri:0, instance:testNG.TC_1@b4c3ab]" name="Config" is-config="true" duration-ms="5344" started-at="2017-08-29T17:11:15Z" finished-at="2017-08-29T17:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Config -->
+        <test-method status="PASS" signature="VerifyOrangeHRM()[pri:0, instance:testNG.TC_1@b4c3ab]" name="VerifyOrangeHRM" duration-ms="6364" started-at="2017-08-29T17:11:20Z" finished-at="2017-08-29T17:11:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Home Page Displayed]]>
+            </line>
+            <line>
+              <![CDATA[UN and PWD is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Orange HRM page is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Welcome+username is displayed]]>
+            </line>
+            <line>
+              <![CDATA[SignOff Successfull and HomePage Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyOrangeHRM -->
+        <test-method status="PASS" signature="Shutdown()[pri:0, instance:testNG.TC_1@b4c3ab]" name="Shutdown" is-config="true" duration-ms="2109" started-at="2017-08-29T17:11:26Z" finished-at="2017-08-29T17:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shutdown -->
+      </class> <!-- testNG.TC_1 -->
+      <class name="testNG.TC_2">
+        <test-method status="PASS" signature="config()[pri:0, instance:testNG.TC_2@9711b]" name="config" is-config="true" duration-ms="3602" started-at="2017-08-29T17:11:28Z" finished-at="2017-08-29T17:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="addemployeeandVERIFYINEMPLOYEELIST()[pri:0, instance:testNG.TC_2@9711b]" name="addemployeeandVERIFYINEMPLOYEELIST" duration-ms="9367" started-at="2017-08-29T17:11:32Z" finished-at="2017-08-29T17:11:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Home Page Displayed]]>
+            </line>
+            <line>
+              <![CDATA[UN and PWD is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[OrangeHRM is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Welcome+username is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Change Password and Logout are Displayed]]>
+            </line>
+            <line>
+              <![CDATA[PIM:Add Employee is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Personal Details is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Employee Information is Displayed]]>
+            </line>
+            <line>
+              <![CDATA[SignOff Successfull and HomePage Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addemployeeandVERIFYINEMPLOYEELIST -->
+        <test-method status="PASS" signature="shutdown()[pri:0, instance:testNG.TC_2@9711b]" name="shutdown" is-config="true" duration-ms="1" started-at="2017-08-29T17:11:41Z" finished-at="2017-08-29T17:11:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- testNG.TC_2 -->
+    </test> <!-- OrangeHRM -->
+  </suite> <!-- Suite1 -->
+</testng-results>
